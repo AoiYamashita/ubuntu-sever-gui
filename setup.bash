@@ -4,6 +4,6 @@ sudo apt update
 
 sudo apt upgrade
 
-sudo apt install ubuntu-desktop
+sudo apt install xubuntu-desktop
 
 sudo reboot
